@@ -15,3 +15,6 @@ Where users can get help with your project
 
 Who maintains and contributes to the project
 - My name is Premysl and I wrote this in January 2024.
+
+** Markdown Syntax **
+[MakdownSyntax](https://www.markdownguide.org/cheat-sheet/)
